@@ -85,7 +85,7 @@
         <option name="arguments" value="--write $FilePathRelativeToProjectRoot$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
-        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="exitCodeBehavior" value="ALWAYS" />
         <option name="fileExtension" value="js" />
         <option name="immediateSync" value="false" />
         <option name="name" value="Prettier JS" />
@@ -163,4 +163,4 @@
       </TaskOptions>
     </global-watchers>
   </component>
-</application> 
+</application>
