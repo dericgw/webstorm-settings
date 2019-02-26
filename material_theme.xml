@@ -5,6 +5,7 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="49" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="4" />
