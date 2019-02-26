@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="TSLint Disable">
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="47:0;47:0;32:0;84:0;83:0;76:0;73:0;78:0;84:0;513:1;68:0;73:0;83:0;65:0;66:0;76:0;69:0">//&amp;#x20;tslint:disable</typing>
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
