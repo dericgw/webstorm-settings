@@ -1,0 +1,10 @@
+<templateSet group="Redux">
+  <template name="ac" value="export const $NAME$ = ($PARAMS$) =&gt; ({&#10;  type: $TYPE$,&#10;  payload: {$END$} &#10;});" description="Creates an action creator" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
