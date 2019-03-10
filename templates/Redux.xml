@@ -7,4 +7,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="at" value="const $NAME$ = '$FILENAME$/$NAME$';" description="Creates an action type" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="capitalizeAndUnderscore(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAME" expression="capitalizeAndUnderscore(fileNameWithoutExtension())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
