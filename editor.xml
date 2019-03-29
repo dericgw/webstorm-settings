@@ -1,6 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Dank Mono" />
     <option name="LINE_SPACING" value="1.9" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -11,6 +10,10 @@
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
