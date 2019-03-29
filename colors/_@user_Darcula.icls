@@ -3,12 +3,12 @@
     <property name="created">2018-08-28T20:41:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-03-10T07:28:25</property>
+    <property name="modified">2019-03-29T14:05:43</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="7fdbca" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />

@@ -1,0 +1,20 @@
+<keymap version="1" name="Deric Windows" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+</keymap>
