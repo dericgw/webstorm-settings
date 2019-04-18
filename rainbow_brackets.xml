@@ -1,0 +1,7 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="enableRainbowAngleBrackets" value="false" />
+    <option name="version" value="5.18" />
+  </component>
+</application>
