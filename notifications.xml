@@ -1,0 +1,11 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
+    <notification groupId="izhangzhihao.rainbow.brackets_UPDATE" displayType="NONE" />
+    <notification groupId="Material Theme Notifications" displayType="NONE" />
+    <notification groupId="Quokka Notifications" displayType="NONE" />
+    <notification groupId="Wallaby Expired License" displayType="NONE" />
+    <notification groupId="Wallaby License" displayType="NONE" />
+    <notification groupId="Wallaby Updates" displayType="NONE" />
+  </component>
+</application>
