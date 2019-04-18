@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="SearchResults" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
