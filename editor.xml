@@ -25,7 +25,7 @@
     </pattern>
     <pattern useCustomColors="true" pattern="\bnote\b.*">
       <option name="FOREGROUND" value="fffdf5" />
-      <option name="BACKGROUND" value="dfc60b" />
+      <option name="BACKGROUND" value="c2a90b" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
   </component>
