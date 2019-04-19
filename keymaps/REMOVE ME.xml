@@ -1,0 +1,6 @@
+<keymap version="1" name="REMOVE ME" parent="Mac OS X 10.5+">
+  <action id="QuickList.Quick Actions">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
