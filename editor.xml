@@ -12,6 +12,23 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="23850b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="ac0900" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="dfc60b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
