@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Dank Mono" />
+    <option name="FONT_FAMILY" value="Operator Mono" />
     <option name="LINE_SPACING" value="1.9" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -11,6 +11,23 @@
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="23850b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="ac0900" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="fffdf5" />
+      <option name="BACKGROUND" value="c2a90b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />

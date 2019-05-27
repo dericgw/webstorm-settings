@@ -5,6 +5,7 @@
     <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="60" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">

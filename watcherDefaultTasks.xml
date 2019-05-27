@@ -95,7 +95,7 @@
         </option>
         <option name="outputFromStdout" value="false" />
         <option name="program" value="$ProjectFileDir$/node_modules/.bin/prettier" />
-        <option name="runOnExternalChanges" value="true" />
+        <option name="runOnExternalChanges" value="false" />
         <option name="scopeName" value="Project Files" />
         <option name="trackOnlyRoot" value="true" />
         <option name="workingDir" value="$ProjectFileDir$" />
@@ -122,20 +122,20 @@
         <envs />
       </TaskOptions>
       <TaskOptions>
-        <option name="arguments" value="--fix $FilePathRelativeToProjectRoot$" />
+        <option name="arguments" value="--fix $FileName$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
-        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="exitCodeBehavior" value="NEVER" />
         <option name="fileExtension" value="js" />
         <option name="immediateSync" value="false" />
         <option name="name" value="ESLint JS" />
-        <option name="output" value="$FilePathRelativeToProjectRoot$" />
+        <option name="output" value="$FileDir$" />
         <option name="outputFilters">
           <array />
         </option>
         <option name="outputFromStdout" value="false" />
         <option name="program" value="$ProjectFileDir$/node_modules/.bin/eslint" />
-        <option name="runOnExternalChanges" value="true" />
+        <option name="runOnExternalChanges" value="false" />
         <option name="scopeName" value="Project Files" />
         <option name="trackOnlyRoot" value="true" />
         <option name="workingDir" value="$ProjectFileDir$" />
