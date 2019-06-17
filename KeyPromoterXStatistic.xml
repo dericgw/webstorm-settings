@@ -78,7 +78,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Exclude</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
