@@ -1,0 +1,9 @@
+<templateSet group="React">
+  <template name="use" value="const [$NAME$, update$UPDATE_NAME$] = useState($END$);" description="A useState variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UPDATE_NAME" expression="capitalize($NAME$)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
