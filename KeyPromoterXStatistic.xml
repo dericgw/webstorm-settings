@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'build'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃⌥⇧⌘T'</ShortCut>
+          <Description>Rerun 'build'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'start'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
