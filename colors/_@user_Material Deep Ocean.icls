@@ -4,7 +4,7 @@
     <property name="created">2019-07-29T16:14:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-29T16:15:27</property>
+    <property name="modified">2019-07-30T13:27:49</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -70,7 +70,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="84ffff" />
     <option name="SELECTED_TEARLINE_COLOR" value="84ffff" />
     <option name="SELECTION_BACKGROUND" value="3b3f51" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="84ffffc0" />
