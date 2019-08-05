@@ -2,7 +2,6 @@
   <component name="RainbowSettings">
     <option name="customNotifyShowed" value="true" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="enableRainbowAngleBrackets" value="false" />
     <option name="version" value="5.20" />
   </component>
 </application>
