@@ -8,4 +8,5 @@
   <action id="Refactorings.QuickListPopupAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="StringManipulation.Sort" />
+  <action id="FrameSwitchAction" />
 </list>
