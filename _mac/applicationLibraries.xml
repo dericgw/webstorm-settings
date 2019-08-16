@@ -4,6 +4,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/testing-library__dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/testing-library__react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="pouchdb" type="javaScript">
       <properties>
         <sourceFilesUrls>
