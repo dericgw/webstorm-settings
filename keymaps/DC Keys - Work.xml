@@ -27,6 +27,10 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
