@@ -5,7 +5,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="49" />
@@ -13,7 +12,7 @@
     <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="-50fe7621:165a5044503:-8000" />
     <option name="version" value="4.3.4" />
   </component>
