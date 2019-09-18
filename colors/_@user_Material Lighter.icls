@@ -4,7 +4,7 @@
     <property name="created">2019-09-17T14:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-17T14:40:02</property>
+    <property name="modified">2019-09-17T20:52:14</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -2718,7 +2718,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="90a4ae" />
-        <option name="BACKGROUND" value="fafafa" />
+        <option name="BACKGROUND" value="f5f5f5" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
