@@ -2,7 +2,7 @@
   <action id="ReformatWithPrettierAction" />
   <action id="Javascript.Linters.EsLint.Fix" />
   <action id="InsertLiveTemplate" />
-  <action id="SurroundWithLiveTemplate" />
+  <action id="SurroundWith" />
   <action id="SurroundWithEmmet" />
   <action id="QuickJavaDoc" />
   <action id="Refactorings.QuickListPopupAction" />
