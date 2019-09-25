@@ -4,7 +4,7 @@
     <property name="created">2019-09-17T14:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-20T10:22:47</property>
+    <property name="modified">2019-09-25T09:13:59</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -215,7 +215,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e53935" />
+        <option name="BACKGROUND" value="d78c7b" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -713,7 +713,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="91b859" />
+        <option name="BACKGROUND" value="9db890" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
