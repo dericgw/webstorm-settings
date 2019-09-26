@@ -4,7 +4,7 @@
     <property name="created">2019-09-17T14:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-17T20:52:14</property>
+    <property name="modified">2019-09-25T09:13:59</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -215,7 +215,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e53935" />
+        <option name="BACKGROUND" value="d78c7b" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -468,7 +468,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f6a434" />
+        <option name="FOREGROUND" value="c15e63" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="cb5068" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -713,7 +713,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="91b859" />
+        <option name="BACKGROUND" value="9db890" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -2189,7 +2189,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d2d4d5" />
+        <option name="FOREGROUND" value="9a9c9d" />
         <option name="EFFECT_COLOR" value="d2d4d5" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
