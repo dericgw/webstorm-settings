@@ -4,7 +4,7 @@
     <property name="created">2019-09-17T14:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-25T09:13:59</property>
+    <property name="modified">2019-09-27T13:51:41</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -125,7 +125,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="ff0a79" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="7c4dff" />
     <option name="VISUAL_INDENT_GUIDE" value="b0bec5" />
-    <option name="WHITESPACES" value="e7eaec" />
+    <option name="WHITESPACES" value="d2d5d7" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -215,7 +215,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d78c7b" />
+        <option name="BACKGROUND" value="e53935" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -468,7 +468,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c15e63" />
+        <option name="FOREGROUND" value="f6a434" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cb5068" />
+        <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -713,7 +713,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9db890" />
+        <option name="BACKGROUND" value="91b859" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -2189,7 +2189,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9a9c9d" />
+        <option name="FOREGROUND" value="d2d4d5" />
         <option name="EFFECT_COLOR" value="d2d4d5" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -2717,7 +2717,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="90a4ae" />
+        <option name="FOREGROUND" value="7d919b" />
         <option name="BACKGROUND" value="f5f5f5" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
