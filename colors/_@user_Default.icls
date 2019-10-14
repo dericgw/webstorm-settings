@@ -3,7 +3,7 @@
     <property name="created">2019-09-03T08:29:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-10-03T19:11:41</property>
+    <property name="modified">2019-10-11T14:50:18</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,6 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="7fdbca" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="676e95" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="994cc3" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="994cc3" />
