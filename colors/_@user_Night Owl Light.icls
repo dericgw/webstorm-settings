@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T07:25:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-14T13:06:49</property>
+    <property name="modified">2019-10-14T13:22:02</property>
     <property name="originalScheme">Night Owl Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -3572,7 +3572,7 @@
     </option>
     <option name="TS.INTERFACE">
       <value>
-        <option name="FOREGROUND" value="78ccf0" />
+        <option name="FOREGROUND" value="5aa0f0" />
       </value>
     </option>
     <option name="TS.LOCAL_VARIABLE">
