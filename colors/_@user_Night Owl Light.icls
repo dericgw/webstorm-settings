@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T07:25:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-08T10:30:59</property>
+    <property name="modified">2019-10-14T13:22:02</property>
     <property name="originalScheme">Night Owl Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.9" />
@@ -721,9 +721,9 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ef5350" />
-        <option name="EFFECT_COLOR" value="f4f4f4" />
+        <option name="EFFECT_COLOR" value="ef5350" />
         <option name="ERROR_STRIPE_COLOR" value="ef5350" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -2179,6 +2179,12 @@
         <option name="BACKGROUND" value="607d8b" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="a4a4a4" />
+      </value>
+    </option>
     <option name="OC.BADCHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -3566,7 +3572,7 @@
     </option>
     <option name="TS.INTERFACE">
       <value>
-        <option name="FOREGROUND" value="78ccf0" />
+        <option name="FOREGROUND" value="5aa0f0" />
       </value>
     </option>
     <option name="TS.LOCAL_VARIABLE">
@@ -3620,8 +3626,9 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b39554" />
+        <option name="EFFECT_COLOR" value="b39554" />
         <option name="ERROR_STRIPE_COLOR" value="b39554" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
