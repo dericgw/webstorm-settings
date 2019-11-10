@@ -58,6 +58,10 @@
           <option name="url" value="git@github.com:/dericgw/tiny-mobx-form-react.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:gaearon/suspense-experimental-github-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code" />
