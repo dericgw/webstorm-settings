@@ -11,4 +11,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="lr" value="const $NAME$ = lazy(() =&gt; import(/* webpackChunkName: &quot;$LOWER_NAME$&quot; */ '.$END$/$LOWER_NAME$'));" description="Import a lazy route for route splitting" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOWER_NAME" expression="lowercaseAndDash(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

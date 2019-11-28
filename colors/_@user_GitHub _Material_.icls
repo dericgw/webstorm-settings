@@ -1,13 +1,13 @@
 <scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-15T17:11:24</property>
+    <property name="created">2019-11-28T06:37:31</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-11-16T05:43:58</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-11-28T07:15:11</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.9" />
+  <option name="LINE_SPACING" value="1.8" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
