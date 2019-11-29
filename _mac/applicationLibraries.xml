@@ -12,6 +12,12 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="pouchdb" type="javaScript">
       <properties>
         <sourceFilesUrls>
