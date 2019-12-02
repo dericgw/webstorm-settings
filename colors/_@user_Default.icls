@@ -1,9 +1,9 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-11-15T17:11:24</property>
+    <property name="created">2019-09-03T08:29:04</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-01T06:53:28</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-12-02T09:18:21</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="7fdbca" />
     <option name="FILESTATUS_MERGED" value="6f42c1" />
     <option name="FILESTATUS_MODIFIED" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
