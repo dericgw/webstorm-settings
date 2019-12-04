@@ -1,18 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="49" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="nightowl-light" />
+    <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-50fe7621:165a5044503:-8000" />
     <option name="version" value="4.5.2" />
   </component>
