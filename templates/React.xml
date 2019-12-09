@@ -18,27 +18,31 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rfc" value="import React from 'react';&#10;&#10;interface $NAME$Props {&#10;  &#10;}&#10;&#10;export const $NAME$ = ({}: $NAME$Props) =&gt; {&#10;  return (&#10;    $END$&#10;  );&#10;};&#10;" description="Creates React Function Component" toReformat="false" toShortenFQNames="true">
+  <template name="rfc" value="import React from 'react';&#10;&#10;interface $NAME$Props {&#10;  &#10;}&#10;&#10;export const $NAME$: React.FC&lt;$NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    $END$&#10;  );&#10;};&#10;" description="Creates React Function Component" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rfcr" value="import React from 'react';&#10;import { RouteComponentProps } from '@reach/router';&#10;&#10;import { connect } from 'Utils/connect';&#10;&#10;interface $NAME$Props extends RouteComponentProps {&#10;&#10;}&#10;&#10;const $NAME$ = ({}: $NAME$Props) =&gt; {&#10;  return (&#10;    $END$&#10;  );&#10;};&#10;&#10;export default connect(({ store }) =&gt; ({&#10;  &#10;}))($NAME$);" description="Creates React Function Component Route" toReformat="false" toShortenFQNames="true">
+  <template name="rfcr" value="import React from 'react';&#10;import { RouteComponentProps } from '@reach/router';&#10;&#10;import { connect } from 'Utils/connect';&#10;&#10;interface $NAME$Props extends RouteComponentProps {&#10;&#10;}&#10;&#10;const $NAME$: React.FC&lt;$NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    $END$&#10;  );&#10;};&#10;&#10;export default connect(({ store }) =&gt; ({&#10;  &#10;}))($NAME$);" description="Creates React Function Component Route" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rus" value="const [$NAME$, set$FUNCTION$] = useState($VALUE$);" description="React useState hook" toReformat="false" toShortenFQNames="true">
+  <template name="rus" value="const [$NAME$, set$FUNCTION$] = useState($END$);" description="React useState hook" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUNCTION" expression="capitalize(camelCase(NAME))" defaultValue="" alwaysStopAt="true" />
-    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="rue" value="useEffect(() =&gt; {&#10;  $END$&#10;}, []);" description="React useEffect hook" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ruc" value="useCallback($SELECTION$, [$END$]);" description="Surround in React useCallback" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
