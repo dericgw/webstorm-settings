@@ -1,18 +1,22 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="49" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="5aa0f0" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="nightowl-carbon" />
     <option name="userId" value="-50fe7621:165a5044503:-8000" />
-    <option name="version" value="4.11.1" />
+    <option name="version" value="4.11.2" />
   </component>
 </application>
