@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="SearchResults" type="PLAIN_TEXT" />
