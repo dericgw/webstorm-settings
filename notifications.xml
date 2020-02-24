@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="izhangzhihao.rainbow.brackets_UPDATE" displayType="NONE" />
     <notification groupId="Material Theme Notifications_UPDATE" displayType="NONE" />
     <notification groupId="Quokka Notifications" displayType="NONE" />
