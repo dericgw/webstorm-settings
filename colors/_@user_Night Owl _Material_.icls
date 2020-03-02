@@ -4,7 +4,7 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-02-28T11:08:38</property>
+    <property name="modified">2020-03-02T09:54:58</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -79,8 +79,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="84d81" />
     <option name="SELECTED_INDENT_GUIDE" value="7e97ac" />
     <option name="SELECTED_TEARLINE_COLOR" value="7e97ac" />
-    <option name="SELECTION_BACKGROUND" value="4373c2" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="SELECTION_BACKGROUND" value="41468d" />
     <option name="SEPARATOR_BELOW_COLOR" value="122d42" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="122d42" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="7e57c2c0" />
