@@ -1,46 +1,10 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/jest" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/testing-library__dom" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/testing-library__react" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="Bundled Protobuf Distribution">
       <CLASSES />
       <SOURCES>
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
-    </library>
-    <library name="material-components-web" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.css" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.css" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="pouchdb" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_pouchdb@7.1.1_dist_pouchdb.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_pouchdb@7.1.1_dist_pouchdb.js" />
-      </CLASSES>
-      <SOURCES />
     </library>
   </component>
 </application>
