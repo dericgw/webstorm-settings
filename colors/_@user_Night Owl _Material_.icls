@@ -4,17 +4,17 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-02-28T11:08:38</property>
+    <property name="modified">2020-04-02T14:19:14</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="MonoLisa" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -79,8 +79,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="84d81" />
     <option name="SELECTED_INDENT_GUIDE" value="7e97ac" />
     <option name="SELECTED_TEARLINE_COLOR" value="7e97ac" />
-    <option name="SELECTION_BACKGROUND" value="4373c2" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="SELECTION_BACKGROUND" value="41468d" />
     <option name="SEPARATOR_BELOW_COLOR" value="122d42" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="122d42" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="7e57c2c0" />
@@ -1354,16 +1353,14 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="7fdbca" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2685,10 +2682,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f7e97" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="7e57c2" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
