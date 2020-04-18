@@ -4,7 +4,7 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-02T14:19:14</property>
+    <property name="modified">2020-04-18T06:58:42</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -46,6 +46,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffeb95" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffeb95" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffeb95" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="5f7e97" />
     <option name="FILESTATUS_MERGED" value="a2bffc" />
     <option name="FILESTATUS_MODIFIED" value="e2b93d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
