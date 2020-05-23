@@ -4,7 +4,7 @@
     <property name="created">2020-05-22T22:53:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-23T01:37:21</property>
+    <property name="modified">2020-05-23T04:33:48</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -82,7 +82,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
