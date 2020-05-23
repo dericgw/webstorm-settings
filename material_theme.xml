@@ -18,9 +18,9 @@
     <option name="useProjectFrame" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="tabOpacity" value="49" />
-    <option name="leftTreeIndent" value="12" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="leftTreeIndent" value="8" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="5aa0f0" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="ONE_DARK" />
