@@ -6,6 +6,7 @@
       <mapping pattern="SearchResults" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

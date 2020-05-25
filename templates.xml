@@ -3,30 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="descr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="bfe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="it" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="afe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="af" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript Testing" />
-          <option name="key" value="bf" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
@@ -141,6 +117,30 @@
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="descr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="bfe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="it" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="afe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="af" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="bf" />
         </TemplateKey>
       </list>
     </option>
