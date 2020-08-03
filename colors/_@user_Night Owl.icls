@@ -4,12 +4,12 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-02-28T11:03:03</property>
+    <property name="modified">2020-08-03T08:02:56</property>
     <property name="originalScheme">Night Owl</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="MonoLisa" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
