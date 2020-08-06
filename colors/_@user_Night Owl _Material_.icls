@@ -4,7 +4,7 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-07-16T14:04:43</property>
+    <property name="modified">2020-08-06T12:19:25</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -108,7 +108,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
     <option name="VISUAL_INDENT_GUIDE" value="84d81" />
-    <option name="WHITESPACES" value="84d81" />
+    <option name="WHITESPACES" value="8096b8" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="7e97ac" />
   </colors>
   <attributes>
@@ -1209,8 +1209,6 @@
         <option name="FOREGROUND" value="7fdbca" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
