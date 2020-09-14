@@ -6,9 +6,6 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="MonoLisa" />
     <option name="LINE_SPACING" value="1.7" />
@@ -17,7 +14,12 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="JSEditorOptions">
