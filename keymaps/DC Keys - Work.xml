@@ -9,6 +9,8 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
