@@ -10,6 +10,7 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="11" />
     <option name="FONT_FAMILY" value="MonoLisa" />
     <option name="LINE_SPACING" value="1.7" />
     <option name="USE_LIGATURES" value="true" />
