@@ -42,9 +42,13 @@
           <option name="url" value="git@github.com:FeatureSet/client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mobxjs/mobx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/feature-set" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
