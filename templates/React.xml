@@ -19,7 +19,7 @@
     </context>
   </template>
   <template name="rfc" value="import React from 'react';&#10;&#10;interface $NAME$Props {&#10;  &#10;}&#10;&#10;export const $NAME$: React.FC&lt;$NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    $END$&#10;  );&#10;};&#10;" description="Creates React Function Component" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
