@@ -1,10 +1,43 @@
 <application>
   <component name="libraryTable">
+    <library name="@babel/standalone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone@7.4.4_babel.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone@7.4.4_babel.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Bundled Protobuf Distribution">
       <CLASSES />
       <SOURCES>
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
+    </library>
+    <library name="react" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@16.8.6_umd_react.production.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@16.8.6_umd_react.production.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@16.8.6_umd_react-dom.production.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@16.8.6_umd_react-dom.production.min.js" />
+      </CLASSES>
+      <SOURCES />
     </library>
   </component>
 </application>
