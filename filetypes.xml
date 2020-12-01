@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gql" type="GraphQL" />
-      <removed_mapping ext="gql" approved="true" type="Graql" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="SearchResults" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
