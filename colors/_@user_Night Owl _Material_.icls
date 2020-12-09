@@ -4,17 +4,17 @@
     <property name="created">2020-02-28T11:02:16</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-12-08T15:30:14</property>
+    <property name="modified">2020-12-09T08:09:50</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <font>
     <option name="EDITOR_FONT_NAME" value="MonoLisa" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
