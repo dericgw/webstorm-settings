@@ -1,6 +1,6 @@
 <application>
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="version" value="6.7" />
+    <option name="version" value="6.5" />
   </component>
 </application>
