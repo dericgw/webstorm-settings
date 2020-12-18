@@ -1,7 +1,7 @@
 <keymap version="1" name="DC Keys - Work" parent="Mac OS X 10.5+">
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="Console.Execute" />
