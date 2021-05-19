@@ -30,21 +30,27 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rus" value="const [$NAME$, set$FUNCTION$] = useState($END$);" description="React useState hook" toReformat="false" toShortenFQNames="true">
+  <template name="rus" value="const [$NAME$, set$FUNCTION$] = useState($END$)" description="React useState hook" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUNCTION" expression="capitalize(camelCase(NAME))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rue" value="useEffect(() =&gt; {&#10;  $END$&#10;}, []);" description="React useEffect hook" toReformat="false" toShortenFQNames="true">
+  <template name="rue" value="useEffect(() =&gt; {&#10;  $END$&#10;}, [])" description="React useEffect hook" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ruc" value="useCallback($SELECTION$, [$END$]);" description="Surround in React useCallback" toReformat="false" toShortenFQNames="true">
+  <template name="ruc" value="useCallback($SELECTION$, [$END$])" description="Surround in React useCallback" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rum" value="useMemo($SELECTION$, [$END$])" description="Wrap in React useMemo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
