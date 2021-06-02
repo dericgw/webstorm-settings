@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -28,6 +29,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="-50fe7621:165a5044503:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.5.0.1" />
   </component>
 </application>
