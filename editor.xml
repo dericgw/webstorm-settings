@@ -37,7 +37,7 @@
       <option name="BACKGROUND" value="ac0900" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern useCustomColors="true" pattern="\bnote\b.*">
+    <pattern useCustomColors="true" pattern="\bnote: ?\b.*">
       <option name="FOREGROUND" value="fffdf5" />
       <option name="BACKGROUND" value="c2a90b" />
       <option name="FONT_TYPE" value="2" />
